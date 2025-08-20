@@ -1,0 +1,30 @@
+
+name: Generate Snake
+
+on:
+  schedule:                # 定时任务，每天运行一次
+    - cron: "0 0 * * *"    # 每天 0 点 (UTC) 运行
+  workflow_dispatch:       # 允许手动触发
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Generate snake animation
+        uses: Platane/snk@v3
+        with:
+          github_user_name: DueKer   # ⚡ 这里改成你的 GitHub 用户名
+          outputs: dist/github-contribution-grid-snake.svg
+
+      - name: Push to output branch
+        uses: crazy-max/ghaction-github-pages@v3
+        with:
+          target_branch: output      # 生成的文件会推送到 output 分支
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
