@@ -1,35 +1,125 @@
-# Hi 👋, I'm He Lei
+# 🚀 Hi there, I'm He Lei! 
 
-### 🌱 About Me
-- 🔭 I’m currently working on **Frontend / Fullstack projects**
-- 🌱 I’m learning **React, Vue, Node.js**
-- 👯 I’m looking to collaborate on **Open Source projects**
-- 💬 Ask me about **JS, CSS, Web Animations**
-- 📫 How to reach me: [Email](mailto:your_email@example.com)
-- ⚡ Fun fact: Coffee fuels my coding ☕ 
+<div align="center">
+  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&background=0D111700&center=true&vCenter=true&width=500&lines=Frontend+%26+Fullstack+Developer;React+%7C+Vue+%7C+Node.js+Expert;Open+Source+Enthusiast;Coffee+Powered+Coder+%E2%98%95)](https://git.io/typing-svg)
 
----
+![Profile Views](https://komarev.com/ghpvc/?username=DueKer&color=brightgreen&style=flat-square)
+[![Github Followers](https://img.shields.io/github/followers/DueKer?color=06FFA5&logo=github&style=flat-square)](https://github.com/DueKer)
+[![Wakatime](https://wakatime.com/badge/user/your-wakatime-id.svg)](https://wakatime.com/@your-wakatime-id)
 
-### 💻 Tech Stack
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Vue.js](https://img.shields.io/badge/Vue.js-42b883?style=flat-square&logo=vue.js&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+</div>
 
 ---
 
-### 📖 Daily Quote
-> Loading a random quote... <!-- GitHub Actions 会每天自动更新这里 -->
+## 🧑‍💻 关于我 | About Me
+
+<img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100">
+
+- 🔭 **当前专注**: Frontend / Fullstack 项目开发
+- 🌱 **正在学习**: React, Vue, Node.js, TypeScript, 微前端架构
+- 👯 **合作意向**: 开源项目贡献，技术分享
+- 💬 **技术交流**: JavaScript, CSS, Web Animations, 性能优化
+- 📫 **联系方式**: [Email](mailto:1216504560@qq.com) | [微信公众号](link)
+- ⚡ **有趣的事**: 咖啡是我编程的燃料 ☕，深夜代码最有灵感 🌙
 
 ---
 
-### 📊 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
+## 🛠️ 技术栈 | Tech Stack
 
-## 📖 每日一句 Daily Quote
+<div align="center">
 
+### 前端技术
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+
+### 框架 & 库
+![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Vite](https://img.shields.io/badge/-Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+
+### 后端技术
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/-Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### 工具 & 平台
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+</div>
+
+---
+
+## 📊 GitHub 数据统计 | GitHub Stats
+
+<div align="center">
+  
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=DueKer&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DueKer&layout=compact&langs_count=8&theme=tokyonight"/>
+
+</div>
+
+<div align="center">
+  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DueKer&theme=tokyonight)
+
+</div>
+
+### 📈 贡献图表 | Contribution Graph
+![Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=DueKer&theme=tokyo-night)
+
+---
+
+## 🎯 每日语录 | Daily Quote
+
+<div align="center">
+
+<!-- 每日语录将通过GitHub Actions自动更新 -->
 ![Daily Quote](./quote.gif)
+
+*"代码不仅仅是逻辑的艺术，更是创造的魔法 ✨"*
+
+</div>
+
+---
+
+## 🏆 成就与里程碑 | Achievements
+
+<div align="center">
+
+![Trophy](https://github-profile-trophy.vercel.app/?username=DueKer&theme=tokyonight&no-frame=true&row=1&column=6)
+
+</div>
+
+---
+
+## 📫 联系我 | Connect with Me
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:1216504560@qq.com)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DueKer)
+[![Bilibili](https://img.shields.io/badge/-Bilibili-00A1D6?style=for-the-badge&logo=bilibili&logoColor=white)](https://space.bilibili.com/your_uid)
+
+</div>
+
+---
+
+<div align="center">
+  
+### 🌟 感谢访问我的 GitHub! | Thanks for visiting!
+
+![Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
+
+**⭐ 如果觉得有趣，请给我一个 Star! | If you find it interesting, please give me a star!**
+
+</div>
 
 

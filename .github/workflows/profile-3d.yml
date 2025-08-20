@@ -1,0 +1,34 @@
+name: 📊 Generate 3D Contribution Profile
+
+on:
+  schedule:
+    - cron: "0 18 * * *" # 每天更新
+  workflow_dispatch:
+  push:
+    branches: [ main ]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    name: Generate 3D Profile
+    steps:
+      - uses: yoshi389111/github-profile-3d-contrib@0.7.1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: DueKer
+        with:
+          SETTING_JSON: |
+            {
+              "type": "normal",
+              "config": {
+                "timezone": "Asia/Shanghai",
+                "animation": true,
+                "camera_angle": "isometric",
+                "grid_color": "#e1e4e8",
+                "dots_color_1": "#ebedf0",
+                "dots_color_2": "#c6e48b", 
+                "dots_color_3": "#7bc96f",
+                "dots_color_4": "#239a3b",
+                "dots_color_5": "#196127"
+              }
+            } 

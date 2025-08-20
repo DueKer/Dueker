@@ -1,7 +1,82 @@
 [
-  "今天也要元气满满 💪",
-  "代码改变世界 🌍",
-  "保持好奇，持续学习 📚",
-  "早起的鸟儿有虫吃 🐦",
-  "Bug 不存在，只是暂时看不见 🌟"
+  {
+    "text": "今天也要元气满满，代码创造无限可能！💪",
+    "author": "程序员格言"
+  },
+  {
+    "text": "代码改变世界，每一行都是对未来的投资 🌍",
+    "author": null
+  },
+  {
+    "text": "保持好奇，持续学习，技术的海洋永无止境 📚",
+    "author": null
+  },
+  {
+    "text": "早起的鸟儿有虫吃，勤奋的程序员有bug修 🐦",
+    "author": "开发者智慧"
+  },
+  {
+    "text": "Bug不是问题，是通往完美代码的垫脚石 🌟",
+    "author": null
+  },
+  {
+    "text": "优秀的代码不是写出来的，是重构出来的",
+    "author": "Martin Fowler"
+  },
+  {
+    "text": "Talk is cheap. Show me the code.",
+    "author": "Linus Torvalds"
+  },
+  {
+    "text": "The best time to plant a tree was 20 years ago. The second best time is now. 🌱",
+    "author": "Chinese Proverb"
+  },
+  {
+    "text": "简单是最高级的复杂性",
+    "author": "Leonardo da Vinci"
+  },
+  {
+    "text": "任何傻瓜都能写出计算机可以理解的代码。好程序员能写出人能理解的代码。",
+    "author": "Martin Fowler"
+  },
+  {
+    "text": "Programming is not about typing, it's about thinking. 🧠",
+    "author": null
+  },
+  {
+    "text": "代码如诗，每一个函数都是一首优美的诗篇 ✨",
+    "author": null
+  },
+  {
+    "text": "Stay hungry, stay foolish, stay coding! 🚀",
+    "author": "Tech Philosophy"
+  },
+  {
+    "text": "人生苦短，我用Python；效率至上，我选JavaScript ⚡",
+    "author": null
+  },
+  {
+    "text": "Every expert was once a beginner. Every pro was once an amateur. 🌟",
+    "author": null
+  },
+  {
+    "text": "Coffee + Code = Magic ☕✨",
+    "author": "Developer's Equation"
+  },
+  {
+    "text": "不要害怕改变，拥抱新技术，拥抱未来 🔮",
+    "author": null
+  },
+  {
+    "text": "The only way to do great work is to love what you do.",
+    "author": "Steve Jobs"
+  },
+  {
+    "text": "编程是一门艺术，而程序员是艺术家 🎨",
+    "author": null
+  },
+  {
+    "text": "First, solve the problem. Then, write the code. 💡",
+    "author": "John Johnson"
+  }
 ]
