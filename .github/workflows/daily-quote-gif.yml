@@ -1,0 +1,62 @@
+name: Update Daily Quote GIF
+
+on:
+  schedule:
+    - cron: '0 0 * * *' # 每天 UTC 0 点触发
+  workflow_dispatch:
+
+jobs:
+  create-gif:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: '18'
+
+      - name: Install dependencies
+        run: |
+          npm install canvas gifencoder
+
+      - name: Generate GIF
+        run: |
+          node << 'EOF'
+          const fs = require('fs');
+          const { createCanvas } = require('canvas');
+          const GIFEncoder = require('gifencoder');
+          const quotes = JSON.parse(fs.readFileSync('quotes.json', 'utf-8'));
+          const quote = quotes[Math.floor(Math.random()*quotes.length)];
+
+          const width = 600;
+          const height = 100;
+          const encoder = new GIFEncoder(width, height);
+          encoder.createReadStream().pipe(fs.createWriteStream('daily-quote.gif'));
+          encoder.start();
+          encoder.setRepeat(0);
+          encoder.setDelay(100);
+          encoder.setQuality(10);
+
+          const canvas = createCanvas(width, height);
+          const ctx = canvas.getContext('2d');
+
+          for(let i=1; i<=quote.length; i++){
+            ctx.fillStyle = '#1e1e1e';
+            ctx.fillRect(0,0,width,height);
+            ctx.font = '30px Arial';
+            ctx.fillStyle = '#00FFAA';
+            ctx.fillText(quote.slice(0,i), 20, 60);
+            encoder.addFrame(ctx);
+          }
+
+          encoder.finish();
+          EOF
+
+      - name: Commit and Push GIF
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add daily-quote.gif
+          git commit -m "Update daily quote GIF"
+          git push
