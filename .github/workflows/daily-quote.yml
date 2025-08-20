@@ -1,0 +1,31 @@
+name: Update Daily Quote
+
+on:
+  schedule:
+    - cron: '0 0 * * *' # 每天 UTC 0 点触发
+  workflow_dispatch:
+
+jobs:
+  generate-quote:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: '18'
+
+      - name: Install dependencies
+        run: npm install @napi-rs/canvas gifencoder fs-extra
+
+      - name: Generate Daily Quote GIF
+        run: node generate-quote.js
+
+      - name: Commit and push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add quote.gif
+          git commit -m "Update daily quote"
+          git push
