@@ -27,3 +27,8 @@
 
 ### 📊 GitHub Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
+
+## 📖 每日一句 Daily Quote
+
+![Daily Quote](./quote.gif)
+
