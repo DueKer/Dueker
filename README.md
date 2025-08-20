@@ -2,7 +2,7 @@
 
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&background=0D111700&center=true&vCenter=true&width=600&lines=%E5%89%8D%E7%AB%AF%E5%BC%80%E5%8F%91%E5%B7%A5%E7%A8%8B%E5%B8%88;Frontend+Developer;React+%7C+Vue+%7C+TypeScript;%E5%BE%AE%E5%89%8D%E7%AB%AF%E6%9E%B6%E6%9E%84%E4%B8%93%E5%AE%B6;%E5%BC%80%E6%BA%90%E9%A1%B9%E7%9B%AE%E8%B4%A1%E7%8C%AE%E8%80%85;%E5%92%96%E5%95%A1%E9%A9%B1%E5%8A%A8%E7%9A%84%E4%BB%A3%E7%A0%81%E8%89%BA%E6%9C%AF%E5%AE%B6+%E2%98%95)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&background=0D111700&center=true&vCenter=true&width=600&lines=%E9%AB%98%E7%BA%A7%E5%89%8D%E7%AB%AF%E5%BC%80%E5%8F%91%E5%B7%A5%E7%A8%8B%E5%B8%88;Senior+Frontend+Developer;React+%7C+Vue+%7C+TypeScript;%E7%86%9F%E6%82%89%E5%BE%AE%E5%89%8D%E7%AB%AF%E6%9E%B6%E6%9E%84;%E5%BC%80%E6%BA%90%E9%A1%B9%E7%9B%AE%E8%B4%A1%E7%8C%AE%E8%80%85;%E5%92%96%E5%95%A1%E9%A9%B1%E5%8A%A8%E7%9A%84%E4%BB%A3%E7%A0%81%E8%89%BA%E6%9C%AF%E5%AE%B6+%E2%98%95)](https://git.io/typing-svg)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=DueKer&color=brightgreen&style=flat-square)
 [![Github Followers](https://img.shields.io/github/followers/DueKer?color=06FFA5&logo=github&style=flat-square)](https://github.com/DueKer)
@@ -72,9 +72,6 @@
 
 </div>
 
-### 📈 贡献图表 | Contribution Graph
-![Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=DueKer&theme=tokyo-night)
-
 ---
 
 ## 🎯 每日语录 | Daily Quote
@@ -85,16 +82,6 @@
 ![Daily Quote](https://raw.githubusercontent.com/DueKer/Dueker/main/quote.gif)
 
 *"代码不仅仅是逻辑的艺术，更是创造的魔法 ✨"*
-
-</div>
-
----
-
-## 🏆 成就与里程碑 | Achievements
-
-<div align="center">
-
-![Trophy](https://github-profile-trophy.vercel.app/?username=DueKer&theme=tokyonight&no-frame=true&row=2&column=3&margin-w=15&margin-h=15)
 
 </div>
 
