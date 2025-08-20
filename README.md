@@ -2,11 +2,11 @@
 
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&background=0D111700&center=true&vCenter=true&width=500&lines=Frontend+%26+Fullstack+Developer;React+%7C+Vue+%7C+Node.js+Expert;Open+Source+Enthusiast;Coffee+Powered+Coder+%E2%98%95)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&background=0D111700&center=true&vCenter=true&width=600&lines=%E5%89%8D%E7%AB%AF%E5%BC%80%E5%8F%91%E5%B7%A5%E7%A8%8B%E5%B8%88;Frontend+Developer;React+%7C+Vue+%7C+TypeScript;%E5%BE%AE%E5%89%8D%E7%AB%AF%E6%9E%B6%E6%9E%84%E4%B8%93%E5%AE%B6;%E5%BC%80%E6%BA%90%E9%A1%B9%E7%9B%AE%E8%B4%A1%E7%8C%AE%E8%80%85;%E5%92%96%E5%95%A1%E9%A9%B1%E5%8A%A8%E7%9A%84%E4%BB%A3%E7%A0%81%E8%89%BA%E6%9C%AF%E5%AE%B6+%E2%98%95)](https://git.io/typing-svg)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=DueKer&color=brightgreen&style=flat-square)
 [![Github Followers](https://img.shields.io/github/followers/DueKer?color=06FFA5&logo=github&style=flat-square)](https://github.com/DueKer)
-[![Wakatime](https://wakatime.com/badge/user/your-wakatime-id.svg)](https://wakatime.com/@your-wakatime-id)
+[![GitHub Stars](https://img.shields.io/github/stars/DueKer?color=FFD700&logo=github&style=flat-square)](https://github.com/DueKer)
 
 </div>
 
@@ -16,8 +16,8 @@
 
 <img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100">
 
-- 🔭 **当前专注**: Frontend / Fullstack 项目开发
-- 🌱 **正在学习**: React, Vue, Node.js, TypeScript, 微前端架构
+- 🔭 **当前专注**: 前端开发
+- 🌱 **技术栈**: React, Vue, Node.js, TypeScript, 微前端架构
 - 👯 **合作意向**: 开源项目贡献，技术分享
 - 💬 **技术交流**: JavaScript, CSS, Web Animations, 性能优化
 - 📫 **联系方式**: [Email](mailto:1216504560@qq.com) | [微信公众号](link)
@@ -82,7 +82,7 @@
 <div align="center">
 
 <!-- 每日语录将通过GitHub Actions自动更新 -->
-![Daily Quote](./quote.gif)
+![Daily Quote](https://raw.githubusercontent.com/DueKer/Dueker/main/quote.gif)
 
 *"代码不仅仅是逻辑的艺术，更是创造的魔法 ✨"*
 
@@ -94,7 +94,7 @@
 
 <div align="center">
 
-![Trophy](https://github-profile-trophy.vercel.app/?username=DueKer&theme=tokyonight&no-frame=true&row=1&column=6)
+![Trophy](https://github-profile-trophy.vercel.app/?username=DueKer&theme=tokyonight&no-frame=true&row=2&column=3&margin-w=15&margin-h=15)
 
 </div>
 
@@ -106,7 +106,7 @@
 
 [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:1216504560@qq.com)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DueKer)
-[![Bilibili](https://img.shields.io/badge/-Bilibili-00A1D6?style=for-the-badge&logo=bilibili&logoColor=white)](https://space.bilibili.com/your_uid)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/DueKer)
 
 </div>
 

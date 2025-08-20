@@ -1,34 +1,24 @@
-name: 📊 Generate 3D Contribution Profile
+name: Generate 3D Profile
 
 on:
   schedule:
-    - cron: "0 18 * * *" # 每天更新
+    - cron: "0 18 * * *"  # 每天18:00运行
   workflow_dispatch:
-  push:
-    branches: [ main ]
 
 jobs:
   build:
     runs-on: ubuntu-latest
     name: Generate 3D Profile
     steps:
+      - uses: actions/checkout@v2
       - uses: yoshi389111/github-profile-3d-contrib@0.7.1
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: DueKer
-        with:
-          SETTING_JSON: |
-            {
-              "type": "normal",
-              "config": {
-                "timezone": "Asia/Shanghai",
-                "animation": true,
-                "camera_angle": "isometric",
-                "grid_color": "#e1e4e8",
-                "dots_color_1": "#ebedf0",
-                "dots_color_2": "#c6e48b", 
-                "dots_color_3": "#7bc96f",
-                "dots_color_4": "#239a3b",
-                "dots_color_5": "#196127"
-              }
-            } 
+      - name: Commit & Push
+        run: |
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git add .
+          git commit -m "Generated 3D profile" || exit 0
+          git push 
