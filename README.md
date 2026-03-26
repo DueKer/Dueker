@@ -20,7 +20,7 @@
 - 🌱 **技术栈**: React, Vue, Node.js, TypeScript, 微前端架构
 - 👯 **合作意向**: 开源项目贡献，技术分享
 - 💬 **技术交流**: JavaScript, CSS, Web Animations, 性能优化
-- 📫 **联系方式**: [Email](mailto:1216504560@qq.com) | [微信公众号](link)
+- 📫 **联系方式**: [Email](mailto:1216504560@qq.com) | [微信公众号](Eternity_you0304)
 - ⚡ **有趣的事**: 咖啡是我编程的燃料 ☕，深夜代码最有灵感 🌙
 
 ---
