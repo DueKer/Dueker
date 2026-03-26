@@ -20,7 +20,7 @@
 - 🌱 **技术栈**: React, Vue, Node.js, TypeScript, 微前端架构
 - 👯 **合作意向**: 开源项目贡献，技术分享
 - 💬 **技术交流**: JavaScript, CSS, Web Animations, 性能优化
-- 📫 **联系方式**: [Email](mailto:1216504560@qq.com) | [微信公众号](Eternity_you0304)
+- 📫 **联系方式**: [Email](mailto:1216504560@qq.com) · <details><summary><strong>微信（点击展开二维码）</strong></summary>    <p align="center"><img src="https://raw.githubusercontent.com/DueKer/Dueker/main/assets/wechat-qr.png" alt="微信二维码" width="280"/></p>   <p align="center"><sub>扫一扫上面的二维码图案，加我为朋友。</sub></p>    </details>
 - ⚡ **有趣的事**: 咖啡是我编程的燃料 ☕，深夜代码最有灵感 🌙
 
 ---
